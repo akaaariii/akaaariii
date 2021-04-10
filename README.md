@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Akari.
 
-I'm a front-end developer based in Vancouver. Thank you for visiting my Github.
+I'm a front-end developer based in Vancouver. Thank you for visiting my Github profile.
 
 <!--
 **akaaariii/akaaariii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
