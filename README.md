@@ -6,7 +6,7 @@ I'm a front-end developer based in Vancouver. Thank you for visiting my Github p
 * [LinkedIn](https://www.linkedin.com/in/akari-tsutsui/)
 ---
 
-Skills
+Skills :seedling:
 
 * Languages
   * HTML, CSS, Sass
