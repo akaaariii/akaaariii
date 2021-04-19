@@ -4,6 +4,22 @@ I'm a front-end developer based in Vancouver. Thank you for visiting my Github p
 
 * [Portfolio](https://akaritsutsui.com/)
 * [LinkedIn](https://www.linkedin.com/in/akari-tsutsui/)
+---
+
+Skills
+
+* Languages
+  * HTML, CSS, Sass
+  * JavaScript, TypeScript
+* Frameworks & Libraries
+  * React, Redux, styled-components
+  *  Node.js, Express.js
+* Others
+  * MongoDB, MySQL, Firebase
+  * Heroku, vercel
+  * Figma, XD
+  * Responsive Design
+
 
 
 
