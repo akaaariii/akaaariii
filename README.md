@@ -1,9 +1,16 @@
-### Hi there 👋 I'm Akari.
+### Hi there, I'm Akari👋
 
 I'm a front-end developer based in Vancouver. Thank you for visiting my Github profile.
 
 * [Portfolio](https://akaritsutsui.com/)
 * [LinkedIn](https://www.linkedin.com/in/akari-tsutsui/)
+
+
+| Skills |      |
+| :----: | :---- |
+| Languages | HTML5, CSS3, Sass, JavaScript, TypeScript |
+| Frameworks & Libraries | React, Redux, styled-components, Chart.js, jQuery, Node.js, Express.js |
+| Others | MongoDB, MySQL, Firebase, Figma, XD, Responsive Design |
 
 
 
