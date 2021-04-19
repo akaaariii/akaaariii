@@ -1,4 +1,4 @@
-### Hi there, I'm Akari👋
+### Hi there, I'm Akari 👋
 
 I'm a front-end developer based in Vancouver. Thank you for visiting my Github profile.
 
