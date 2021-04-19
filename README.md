@@ -6,13 +6,6 @@ I'm a front-end developer based in Vancouver. Thank you for visiting my Github p
 * [LinkedIn](https://www.linkedin.com/in/akari-tsutsui/)
 
 
-| Skills |      |
-| :----: | :---- |
-| Languages | HTML5, CSS3, Sass, JavaScript, TypeScript |
-| Frameworks & Libraries | React, Redux, styled-components, Chart.js, jQuery, Node.js, Express.js |
-| Others | MongoDB, MySQL, Firebase, Figma, XD, Responsive Design |
-
-
 
 <!--
 **akaaariii/akaaariii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
