@@ -12,7 +12,7 @@ Skills :seedling:
   * HTML, CSS, Sass
   * JavaScript, TypeScript
 * Frameworks & Libraries
-  * React, Redux, styled-components
+  * React, React Hooks, Redux, styled-components
   *  Node.js, Express.js
 * Others
   * MongoDB, MySQL, Firebase
