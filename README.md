@@ -18,6 +18,7 @@ Skills :seedling:
   * MongoDB, MySQL, Firebase
   * Heroku, vercel
   * Figma, XD
+  * JIRA, Trello
   * Responsive Design
 
 
