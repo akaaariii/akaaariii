@@ -9,11 +9,11 @@ I'm a front-end developer based in Vancouver. Thank you for visiting my Github p
 Skills :seedling:
 
 * Languages
-  * HTML, CSS, Sass
+  * HTML/CSS, Sass
   * JavaScript, TypeScript
 * Frameworks & Libraries
   * React, React Hooks, Redux, styled-components
-  *  Node.js, Express.js
+  * Node.js, Express.js
 * Others
   * MongoDB, MySQL, Firebase
   * Heroku, vercel
