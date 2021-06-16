@@ -11,6 +11,7 @@ Skills :seedling:
 * Languages
   * HTML/CSS, Sass
   * JavaScript, TypeScript
+  * Python
 * Frameworks & Libraries
   * React, React Hooks, Redux, styled-components
   * Node.js, Express.js
