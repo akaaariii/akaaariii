@@ -14,10 +14,12 @@ Skills :seedling:
   * Python
 * Frameworks & Libraries
   * React, React Hooks, Redux, styled-components
+  * Next.js
   * Node.js, Express.js
 * Others
   * MongoDB, MySQL, Firebase
   * Heroku, vercel
+  * GCP
   * Figma, XD
   * JIRA, Trello
   * Responsive Design
