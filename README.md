@@ -17,12 +17,10 @@ Skills :seedling:
   * Next.js
   * Node.js, Express.js
 * Others
-  * MongoDB, MySQL, Firebase
-  * Heroku, vercel
+  * MongoDB, MySQL
+  * Firebase
   * GCP
   * Figma, XD
-  * JIRA, Trello
-  * Responsive Design
 
 
 
