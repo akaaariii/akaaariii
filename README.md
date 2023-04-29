@@ -1,6 +1,6 @@
 ### Hi there, I'm Akari 👋
 
-I'm a front-end developer based in Vancouver. Thank you for visiting my Github profile.
+I'm a front-end developer. Thank you for visiting my Github profile.
 
 * [Portfolio](https://akaritsutsui.com/)
 * [LinkedIn](https://www.linkedin.com/in/akari-tsutsui/)
@@ -11,7 +11,7 @@ Skills :seedling:
 * Languages
   * HTML/CSS, Sass
   * JavaScript, TypeScript
-  * Python
+  * Kotlin
 * Frameworks & Libraries
   * React, React Hooks, Redux, styled-components
   * Next.js
